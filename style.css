@@ -1,0 +1,35 @@
+html {
+    //font-family: Franklin Gothic;
+    color: white;
+    background-color: rgb(30, 30, 40);
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color:maroon;
+    text-align: center;
+}
+h2 {
+    font-size: 25px;
+    font-family: Gothic;
+    opacity: 0.9;
+}
+body {
+    text-align: center;
+}
+label {
+    font-size: 20px;
+}
+strong {
+    font-size: 20px;
+    color:red;
+}
+button {
+    color:red;
+    font-family: Arial ;
+    font-size: 30px;
+    margin-top: 50px;
+}
+img {
+    text-align: center;
+}
